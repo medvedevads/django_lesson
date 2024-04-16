@@ -1,0 +1,649 @@
+Watching for file changes with StatReloader
+Not Found: /prefix/about
+"GET /prefix/about HTTP/1.1" 404 2444
+"GET / HTTP/1.1" 200 13
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+Not Found: /prefix
+"GET /prefix HTTP/1.1" 404 2426
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /prefix/
+"GET /prefix/ HTTP/1.1" 404 2429
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\myproject\myapp\views.py", line 15, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+"GET /about/ HTTP/1.1" 200 27
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-28 17:53:47,328 autoreload 35792 42740 Watching for file changes with StatReloader
+INFO 2024-03-28 17:53:57,483 views 35792 25724 Index page accessed
+INFO 2024-03-28 17:53:57,485 basehttp 35792 25724 "GET / HTTP/1.1" 200 13
+ERROR 2024-03-28 17:54:02,629 views 35792 25724 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\myproject\myapp\views.py", line 15, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+INFO 2024-03-28 17:54:02,633 basehttp 35792 25724 "GET /about/ HTTP/1.1" 200 27
+INFO 2024-03-31 19:27:38,076 autoreload 19952 41216 Watching for file changes with StatReloader
+INFO 2024-03-31 19:30:43,038 autoreload 18924 32408 Watching for file changes with StatReloader
+INFO 2024-03-31 19:30:46,408 views 18924 44868 Index page accessed
+INFO 2024-03-31 19:30:46,431 basehttp 18924 44868 "GET / HTTP/1.1" 200 13
+INFO 2024-04-01 10:53:37,890 autoreload 5260 30168 Watching for file changes with StatReloader
+INFO 2024-04-01 10:53:42,601 views 5260 40080 Index page accessed
+INFO 2024-04-01 10:53:42,614 basehttp 5260 40080 "GET / HTTP/1.1" 200 13
+WARNING 2024-04-01 10:53:45,413 log 5260 40080 Not Found: /favicon.ico
+WARNING 2024-04-01 10:53:45,423 basehttp 5260 40080 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-01 10:56:30,065 autoreload 5260 30168 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp2\models.py changed, reloading.
+INFO 2024-04-01 10:56:32,986 autoreload 34936 17692 Watching for file changes with StatReloader
+INFO 2024-04-01 11:00:47,524 autoreload 26628 34660 Watching for file changes with StatReloader
+INFO 2024-04-04 10:39:56,412 autoreload 35944 34520 Watching for file changes with StatReloader
+INFO 2024-04-04 10:40:00,419 views 35944 48416 Index page accessed
+INFO 2024-04-04 10:40:00,423 basehttp 35944 48416 "GET / HTTP/1.1" 200 13
+WARNING 2024-04-04 10:40:03,686 log 35944 48416 Not Found: /favicon.ico
+WARNING 2024-04-04 10:40:03,689 basehttp 35944 48416 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-04 10:47:01,517 autoreload 35944 34520 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-04 10:47:05,201 autoreload 22216 42048 Watching for file changes with StatReloader
+INFO 2024-04-04 10:47:15,165 autoreload 22216 42048 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-04 10:47:18,102 autoreload 15788 35280 Watching for file changes with StatReloader
+INFO 2024-04-04 10:50:05,520 autoreload 15788 35280 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-04 10:50:08,524 autoreload 12292 12068 Watching for file changes with StatReloader
+INFO 2024-04-04 10:50:14,100 autoreload 12292 12068 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-04 10:50:15,664 autoreload 47588 51736 Watching for file changes with StatReloader
+WARNING 2024-04-04 10:50:25,166 log 47588 46692 Not Found: /
+WARNING 2024-04-04 10:50:25,168 basehttp 47588 46692 "GET / HTTP/1.1" 404 2274
+WARNING 2024-04-04 10:50:42,255 log 47588 44204 Not Found: /les3/
+WARNING 2024-04-04 10:50:42,256 basehttp 47588 44204 "GET /les3/ HTTP/1.1" 404 2548
+WARNING 2024-04-04 10:50:52,704 log 47588 800 Not Found: /
+WARNING 2024-04-04 10:50:52,707 basehttp 47588 800 "GET / HTTP/1.1" 404 2274
+WARNING 2024-04-04 10:52:21,736 log 47588 52768 Not Found: /les3/
+WARNING 2024-04-04 10:52:21,737 basehttp 47588 52768 "GET /les3/ HTTP/1.1" 404 2548
+INFO 2024-04-04 10:52:41,080 basehttp 47588 31164 "GET /les3/hello/ HTTP/1.1" 200 26
+INFO 2024-04-04 10:53:02,235 basehttp 47588 32124 "GET /les3/hello2/ HTTP/1.1" 200 23
+INFO 2024-04-04 10:54:51,271 autoreload 47588 51736 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-04 10:54:53,907 autoreload 37584 51992 Watching for file changes with StatReloader
+INFO 2024-04-04 10:56:50,508 autoreload 37584 51992 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 10:56:54,176 autoreload 39728 39456 Watching for file changes with StatReloader
+INFO 2024-04-04 11:01:47,602 autoreload 39728 39456 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 11:01:50,345 autoreload 35476 16084 Watching for file changes with StatReloader
+INFO 2024-04-04 11:02:20,148 autoreload 35476 16084 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 11:02:22,449 autoreload 16180 55272 Watching for file changes with StatReloader
+INFO 2024-04-04 11:02:25,825 autoreload 16180 55272 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 11:02:27,999 autoreload 43056 21784 Watching for file changes with StatReloader
+INFO 2024-04-04 11:02:49,662 autoreload 43056 21784 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 11:02:51,424 autoreload 36384 43332 Watching for file changes with StatReloader
+INFO 2024-04-04 11:03:41,800 autoreload 36384 43332 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 11:03:44,009 autoreload 55756 32136 Watching for file changes with StatReloader
+WARNING 2024-04-04 11:04:14,087 log 55756 37084 Not Found: /les3/posts/
+WARNING 2024-04-04 11:04:14,089 basehttp 55756 37084 "GET /les3/posts/ HTTP/1.1" 404 3202
+INFO 2024-04-04 11:04:25,111 basehttp 55756 38596 "GET /les3/posts/2024 HTTP/1.1" 301 0
+INFO 2024-04-04 11:04:25,126 basehttp 55756 39448 "GET /les3/posts/2024/ HTTP/1.1" 200 19
+INFO 2024-04-04 11:04:32,135 basehttp 55756 23080 "GET /les3/posts/2024/6 HTTP/1.1" 301 0
+INFO 2024-04-04 11:04:32,146 basehttp 55756 55140 "GET /les3/posts/2024/6/ HTTP/1.1" 200 27
+INFO 2024-04-04 11:05:52,694 basehttp 55756 35744 "GET /les3/posts/2024/6/slug HTTP/1.1" 301 0
+INFO 2024-04-04 11:05:52,707 basehttp 55756 25996 "GET /les3/posts/2024/6/slug/ HTTP/1.1" 200 358
+INFO 2024-04-04 11:07:23,292 basehttp 55756 11516 "GET /les3/posts/2024/6/python/ HTTP/1.1" 200 360
+INFO 2024-04-04 11:48:32,639 autoreload 55756 32136 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 11:48:36,598 autoreload 25228 15620 Watching for file changes with StatReloader
+INFO 2024-04-04 11:48:48,863 autoreload 25228 15620 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 11:48:53,927 autoreload 48072 38864 Watching for file changes with StatReloader
+INFO 2024-04-04 11:54:48,696 autoreload 48072 38864 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 11:54:57,650 autoreload 21452 23852 Watching for file changes with StatReloader
+INFO 2024-04-04 11:54:58,752 basehttp 21452 30848 "GET /les3/ HTTP/1.1" 200 175
+INFO 2024-04-04 12:06:34,409 autoreload 21452 23852 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 12:06:43,659 autoreload 47044 51256 Watching for file changes with StatReloader
+INFO 2024-04-04 12:09:18,465 autoreload 47044 51256 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 12:09:26,431 autoreload 22008 14196 Watching for file changes with StatReloader
+INFO 2024-04-04 12:10:45,945 autoreload 22008 14196 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 12:10:51,580 autoreload 16244 46568 Watching for file changes with StatReloader
+INFO 2024-04-04 12:11:42,122 autoreload 16244 46568 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 12:11:44,643 autoreload 41740 48172 Watching for file changes with StatReloader
+INFO 2024-04-04 12:12:29,582 autoreload 41740 48172 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 12:12:33,221 autoreload 21300 19828 Watching for file changes with StatReloader
+INFO 2024-04-04 12:12:41,156 basehttp 21300 37836 "GET /les3/if HTTP/1.1" 301 0
+ERROR 2024-04-04 12:12:41,342 log 21300 42300 Internal Server Error: /les3/if/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\views\generic\base.py", line 227, in get
+    return self.render_to_response(context)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\views\generic\base.py", line 200, in render_to_response
+    template=self.get_template_names(),
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\views\generic\base.py", line 212, in get_template_names
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: TemplateResponseMixin requires either a definition of 'template_name' or an implementation of 'get_template_names()'
+ERROR 2024-04-04 12:12:41,349 basehttp 21300 42300 "GET /les3/if/ HTTP/1.1" 500 85588
+INFO 2024-04-04 12:14:06,013 autoreload 21300 19828 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 12:14:10,156 autoreload 42324 24300 Watching for file changes with StatReloader
+INFO 2024-04-04 12:14:20,861 basehttp 42324 21096 "GET /les3/ HTTP/1.1" 200 175
+ERROR 2024-04-04 12:14:27,137 log 42324 21096 Internal Server Error: /les3/if/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\smartif.py", line 180, in translate_token
+    op = OPERATORS[token]
+KeyError: '>=2'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\defaulttags.py", line 968, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\defaulttags.py", line 893, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\smartif.py", line 171, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\smartif.py", line 182, in translate_token
+    return self.create_var(token)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\defaulttags.py", line 896, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\base.py", line 597, in compile_filter
+    return FilterExpression(token, self)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\base.py", line 698, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '>=2' from '>=2'
+ERROR 2024-04-04 12:14:27,166 basehttp 42324 21096 "GET /les3/if/ HTTP/1.1" 500 169232
+INFO 2024-04-04 12:15:43,491 basehttp 42324 48836 "GET /les3/ HTTP/1.1" 200 175
+INFO 2024-04-04 12:15:49,188 basehttp 42324 48836 "GET /les3/if/ HTTP/1.1" 200 358
+INFO 2024-04-04 12:25:11,848 autoreload 42324 24300 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 12:25:20,127 autoreload 7688 13248 Watching for file changes with StatReloader
+INFO 2024-04-04 12:25:26,413 autoreload 7688 13248 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 12:25:31,717 autoreload 43696 47512 Watching for file changes with StatReloader
+INFO 2024-04-04 12:25:41,269 autoreload 43696 47512 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 12:25:46,567 autoreload 37660 38676 Watching for file changes with StatReloader
+INFO 2024-04-04 12:25:51,986 basehttp 37660 53964 "GET /les3/for HTTP/1.1" 301 0
+INFO 2024-04-04 12:25:52,063 basehttp 37660 28520 "GET /les3/for/ HTTP/1.1" 200 858
+INFO 2024-04-04 12:36:34,724 autoreload 37660 38676 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 12:36:39,214 autoreload 47320 32192 Watching for file changes with StatReloader
+INFO 2024-04-04 12:36:57,941 autoreload 47320 32192 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 12:37:01,216 autoreload 30464 26776 Watching for file changes with StatReloader
+INFO 2024-04-04 12:38:29,695 autoreload 30464 26776 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-04-04 12:38:39,572 autoreload 27168 14204 Watching for file changes with StatReloader
+INFO 2024-04-04 12:39:01,630 autoreload 27168 14204 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 12:39:06,184 autoreload 26448 44924 Watching for file changes with StatReloader
+INFO 2024-04-04 12:39:50,789 autoreload 26448 44924 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 12:39:54,450 autoreload 47948 48144 Watching for file changes with StatReloader
+INFO 2024-04-04 12:40:01,741 basehttp 47948 5712 "GET /les3/about HTTP/1.1" 301 0
+INFO 2024-04-04 12:40:01,797 basehttp 47948 12016 "GET /les3/about/ HTTP/1.1" 200 251
+INFO 2024-04-04 12:40:08,257 basehttp 47948 29304 "GET /les3/index/ HTTP/1.1" 200 249
+INFO 2024-04-04 12:41:21,459 autoreload 47948 48144 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-04 12:41:26,728 autoreload 26928 42288 Watching for file changes with StatReloader
+INFO 2024-04-04 12:46:40,247 basehttp 26928 37588 "GET /les3/index/ HTTP/1.1" 200 309
+INFO 2024-04-04 12:46:46,149 basehttp 26928 37588 "GET /les3/about/ HTTP/1.1" 200 311
+INFO 2024-04-04 12:47:51,124 autoreload 26928 42288 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-04 12:47:56,416 autoreload 25272 26400 Watching for file changes with StatReloader
+INFO 2024-04-04 12:48:08,071 basehttp 25272 38428 "GET /prefix HTTP/1.1" 301 0
+INFO 2024-04-04 12:48:08,091 views 25272 44656 Index page accessed
+INFO 2024-04-04 12:48:08,095 basehttp 25272 44656 "GET /prefix/ HTTP/1.1" 200 13
+INFO 2024-04-04 12:48:15,356 basehttp 25272 35324 "GET / HTTP/1.1" 200 309
+INFO 2024-04-04 12:50:23,477 autoreload 25272 26400 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\models.py changed, reloading.
+INFO 2024-04-04 12:50:26,295 autoreload 46132 38608 Watching for file changes with StatReloader
+INFO 2024-04-04 12:51:20,381 autoreload 46132 38608 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\models.py changed, reloading.
+INFO 2024-04-04 12:51:21,962 autoreload 4668 36900 Watching for file changes with StatReloader
+INFO 2024-04-04 13:31:50,137 autoreload 37316 29748 Watching for file changes with StatReloader
+INFO 2024-04-04 13:32:03,901 autoreload 37316 29748 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-04-04 13:32:05,938 autoreload 43300 30740 Watching for file changes with StatReloader
+INFO 2024-04-04 13:32:09,220 basehttp 43300 17764 "GET / HTTP/1.1" 200 309
+INFO 2024-04-04 13:32:29,021 basehttp 43300 9544 "GET /les3/ HTTP/1.1" 200 175
+INFO 2024-04-04 13:32:42,046 basehttp 43300 4948 "GET /les3/author/2 HTTP/1.1" 301 0
+ERROR 2024-04-04 13:32:42,193 log 43300 10160 Internal Server Error: /les3/author/2/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\views.py", line 71, in author_posts
+    return render(request, 'myapp3/author_posts.html', {'author': author, 'posts': posts})
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/author_posts.html
+ERROR 2024-04-04 13:32:42,201 basehttp 43300 10160 "GET /les3/author/2/ HTTP/1.1" 500 84135
+INFO 2024-04-04 13:36:36,740 basehttp 43300 17372 "GET /les3/author/2/ HTTP/1.1" 200 1347
+INFO 2024-04-04 13:37:08,975 basehttp 43300 33988 "GET /les3/post/20/ HTTP/1.1" 200 761
+INFO 2024-04-09 14:10:30,041 autoreload 53904 16000 Watching for file changes with StatReloader
+INFO 2024-04-09 14:10:33,734 basehttp 53904 18948 "GET / HTTP/1.1" 200 309
+WARNING 2024-04-09 14:10:35,993 log 53904 18948 Not Found: /favicon.ico
+WARNING 2024-04-09 14:10:36,004 basehttp 53904 18948 "GET /favicon.ico HTTP/1.1" 404 2530
+WARNING 2024-04-09 14:10:49,240 log 53904 25992 Not Found: /les4
+WARNING 2024-04-09 14:10:49,241 basehttp 53904 25992 "GET /les4 HTTP/1.1" 404 2509
+INFO 2024-04-09 14:10:54,289 basehttp 53904 25992 "GET /les4/user/add/ HTTP/1.1" 200 605
+INFO 2024-04-09 14:13:31,805 basehttp 53904 31184 "GET /les4/user/add/ HTTP/1.1" 200 823
+INFO 2024-04-09 14:13:43,403 basehttp 53904 27468 "POST /les4/user/add/ HTTP/1.1" 200 944
+INFO 2024-04-09 14:13:56,381 basehttp 53904 50276 "POST /les4/user/add/ HTTP/1.1" 200 865
+INFO 2024-04-09 14:14:24,377 basehttp 53904 45332 "POST /les4/user/add/ HTTP/1.1" 200 865
+INFO 2024-04-09 14:16:43,875 autoreload 53904 16000 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-04-09 14:16:47,869 autoreload 47868 46192 Watching for file changes with StatReloader
+INFO 2024-04-09 14:19:32,886 autoreload 47868 46192 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-04-09 14:19:34,919 autoreload 42512 17824 Watching for file changes with StatReloader
+INFO 2024-04-09 14:19:35,567 basehttp 42512 8504 "GET /les4/forms HTTP/1.1" 301 0
+INFO 2024-04-09 14:19:35,728 basehttp 42512 17332 "GET /les4/forms/ HTTP/1.1" 200 1511
+INFO 2024-04-09 14:19:59,851 basehttp 42512 14256 "POST /les4/forms/ HTTP/1.1" 200 1590
+INFO 2024-04-09 14:20:02,264 basehttp 42512 14256 "POST /les4/forms/ HTTP/1.1" 200 1590
+INFO 2024-04-09 14:20:03,496 basehttp 42512 14256 "POST /les4/forms/ HTTP/1.1" 200 1590
+INFO 2024-04-09 14:22:36,365 autoreload 42512 17824 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-04-09 14:22:37,703 autoreload 20120 51020 Watching for file changes with StatReloader
+INFO 2024-04-09 14:24:33,213 autoreload 20120 51020 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-04-09 14:24:36,144 autoreload 20096 39452 Watching for file changes with StatReloader
+INFO 2024-04-09 14:25:36,506 autoreload 20096 39452 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-04-09 14:25:38,222 autoreload 34740 19816 Watching for file changes with StatReloader
+INFO 2024-04-09 14:26:02,792 autoreload 34740 19816 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-04-09 14:26:04,286 autoreload 21012 20104 Watching for file changes with StatReloader
+INFO 2024-04-09 14:26:36,838 basehttp 21012 43508 "POST /les4/forms/ HTTP/1.1" 200 2289
+INFO 2024-04-09 14:26:53,563 basehttp 21012 52200 "POST /les4/forms/ HTTP/1.1" 200 2259
+INFO 2024-04-09 14:30:59,495 autoreload 21012 20104 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-04-09 14:31:02,671 autoreload 46508 9656 Watching for file changes with StatReloader
+INFO 2024-04-09 14:31:07,545 basehttp 46508 49008 "POST /les4/forms/ HTTP/1.1" 200 2259
+INFO 2024-04-09 14:31:13,547 basehttp 46508 49008 "POST /les4/forms/ HTTP/1.1" 200 2259
+INFO 2024-04-09 14:32:16,626 autoreload 46508 9656 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-04-09 14:32:19,990 autoreload 18972 19792 Watching for file changes with StatReloader
+INFO 2024-04-09 14:33:15,677 autoreload 18972 19792 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-04-09 14:33:19,495 autoreload 52136 26920 Watching for file changes with StatReloader
+INFO 2024-04-09 14:38:16,378 autoreload 27816 19540 Watching for file changes with StatReloader
+INFO 2024-04-09 14:38:28,955 basehttp 27816 27068 "GET /les4/user/ HTTP/1.1" 200 862
+INFO 2024-04-09 14:39:33,168 basehttp 27816 35600 "GET /les4/user/ HTTP/1.1" 200 862
+INFO 2024-04-09 14:39:58,108 basehttp 27816 47204 "POST /les4/user/ HTTP/1.1" 200 1075
+INFO 2024-04-09 14:41:04,037 basehttp 27816 38120 "POST /les4/user/ HTTP/1.1" 200 1080
+INFO 2024-04-09 14:43:29,849 autoreload 27816 19540 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-04-09 14:43:33,898 autoreload 6668 11764 Watching for file changes with StatReloader
+INFO 2024-04-09 14:43:40,507 autoreload 6668 11764 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\models.py changed, reloading.
+INFO 2024-04-09 14:43:42,196 autoreload 7956 27812 Watching for file changes with StatReloader
+INFO 2024-04-09 14:44:04,648 autoreload 7956 27812 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-04-09 14:44:06,732 autoreload 19108 34260 Watching for file changes with StatReloader
+INFO 2024-04-09 14:45:24,662 autoreload 19108 34260 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-04-09 14:45:27,151 autoreload 46600 34236 Watching for file changes with StatReloader
+INFO 2024-04-09 14:46:44,953 autoreload 46600 34236 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-04-09 14:46:47,001 autoreload 27708 8444 Watching for file changes with StatReloader
+INFO 2024-04-09 14:46:50,869 basehttp 27708 54680 "POST /les4/user/ HTTP/1.1" 200 1105
+INFO 2024-04-09 14:46:53,591 basehttp 27708 54680 "POST /les4/user/ HTTP/1.1" 200 1105
+INFO 2024-04-09 14:46:55,221 basehttp 27708 54680 "POST /les4/user/ HTTP/1.1" 200 1105
+INFO 2024-04-09 14:47:27,521 basehttp 27708 20808 "POST /les4/user/ HTTP/1.1" 200 1089
+INFO 2024-04-09 14:48:26,373 autoreload 27708 8444 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-04-09 14:48:29,054 autoreload 43660 38108 Watching for file changes with StatReloader
+INFO 2024-04-09 14:48:48,518 autoreload 43660 38108 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\forms.py changed, reloading.
+INFO 2024-04-09 14:48:53,098 autoreload 33980 38340 Watching for file changes with StatReloader
+INFO 2024-04-09 14:49:59,694 autoreload 33980 38340 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-09 14:50:03,417 autoreload 32972 48732 Watching for file changes with StatReloader
+INFO 2024-04-09 14:50:30,953 autoreload 32972 48732 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-04-09 14:50:34,031 autoreload 25784 12136 Watching for file changes with StatReloader
+INFO 2024-04-09 14:51:14,235 autoreload 25784 12136 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\urls.py changed, reloading.
+INFO 2024-04-09 14:51:18,811 autoreload 42732 41100 Watching for file changes with StatReloader
+INFO 2024-04-09 14:51:39,745 basehttp 42732 46632 "POST /les4/user/ HTTP/1.1" 200 1089
+WARNING 2024-04-09 14:51:43,421 log 42732 53760 Not Found: /les4/
+WARNING 2024-04-09 14:51:43,422 basehttp 42732 53760 "GET /les4/ HTTP/1.1" 404 3123
+INFO 2024-04-09 14:51:49,808 basehttp 42732 28128 "GET /les4/user/add/ HTTP/1.1" 200 858
+INFO 2024-04-09 14:51:52,943 basehttp 42732 20476 "GET /les4/user/ HTTP/1.1" 200 887
+INFO 2024-04-09 14:52:00,772 basehttp 42732 20476 "POST /les4/user/ HTTP/1.1" 200 1099
+INFO 2024-04-09 14:52:06,619 basehttp 42732 14332 "POST /les4/user/ HTTP/1.1" 200 1104
+INFO 2024-04-09 14:52:09,542 basehttp 42732 14332 "POST /les4/user/ HTTP/1.1" 200 1104
+INFO 2024-04-09 14:52:10,225 basehttp 42732 14332 "POST /les4/user/ HTTP/1.1" 200 1104
+INFO 2024-04-09 14:52:10,672 basehttp 42732 14332 "POST /les4/user/ HTTP/1.1" 200 1104
+INFO 2024-04-09 14:52:10,997 basehttp 42732 14332 "POST /les4/user/ HTTP/1.1" 200 1104
+INFO 2024-04-09 14:52:11,193 basehttp 42732 14332 "POST /les4/user/ HTTP/1.1" 200 1104
+INFO 2024-04-09 14:52:11,387 basehttp 42732 39412 "POST /les4/user/ HTTP/1.1" 200 1104
+WARNING 2024-04-09 14:52:20,478 log 42732 39412 Not Found: /les4/
+WARNING 2024-04-09 14:52:20,481 basehttp 42732 39412 "GET /les4/ HTTP/1.1" 404 3123
+INFO 2024-04-09 14:52:28,143 basehttp 42732 35044 "GET /les4/upload/ HTTP/1.1" 200 622
+ERROR 2024-04-09 14:52:47,285 log 42732 2112 Internal Server Error: /les4/upload/
+Traceback (most recent call last):
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\views.py", line 60, in upload_image
+    fs = FileSystemStorage()
+NameError: name 'FileSystemStorage' is not defined
+ERROR 2024-04-09 14:52:47,288 basehttp 42732 2112 "POST /les4/upload/ HTTP/1.1" 500 68587
+INFO 2024-04-09 14:54:04,881 autoreload 42732 41100 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp4\views.py changed, reloading.
+INFO 2024-04-09 14:54:07,089 autoreload 51608 38580 Watching for file changes with StatReloader
+INFO 2024-04-09 14:54:08,070 basehttp 51608 32880 "POST /les4/upload/ HTTP/1.1" 200 622
+INFO 2024-04-09 14:54:15,491 basehttp 51608 32880 "POST /les4/upload/ HTTP/1.1" 200 622
+INFO 2024-04-09 14:56:12,964 basehttp 51608 29320 "GET /les4/user/add/ HTTP/1.1" 200 858
+INFO 2024-04-09 14:56:15,415 basehttp 51608 29320 "GET /les4/user/ HTTP/1.1" 200 887
+INFO 2024-04-09 14:56:21,364 basehttp 51608 15284 "POST /les4/user/ HTTP/1.1" 200 1105
+INFO 2024-04-09 14:57:15,870 basehttp 51608 46536 "POST /les4/user/ HTTP/1.1" 200 1000
+INFO 2024-04-11 14:04:18,964 autoreload 55620 47052 Watching for file changes with StatReloader
+INFO 2024-04-11 14:04:22,147 basehttp 55620 22832 "GET / HTTP/1.1" 200 309
+WARNING 2024-04-11 14:04:25,903 log 55620 33924 Not Found: /favicon.ico
+WARNING 2024-04-11 14:04:25,907 basehttp 55620 33924 "GET /favicon.ico HTTP/1.1" 404 2530
+INFO 2024-04-11 14:04:40,250 basehttp 55620 5916 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:04:40,494 basehttp 55620 5916 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+INFO 2024-04-11 14:04:41,119 basehttp 55620 16124 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO 2024-04-11 14:04:41,222 basehttp 55620 16124 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2024-04-11 14:04:41,511 basehttp 55620 11192 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-04-11 14:04:41,610 basehttp 55620 5916 "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+INFO 2024-04-11 14:04:41,945 basehttp 55620 9700 "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 2024-04-11 14:04:42,000 basehttp 55620 17860 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-04-11 14:04:42,002 basehttp 55620 17952 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+INFO 2024-04-11 14:06:07,308 autoreload 55620 47052 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-11 14:06:10,606 autoreload 44740 46328 Watching for file changes with StatReloader
+INFO 2024-04-11 14:06:13,978 basehttp 44740 51012 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-04-11 14:14:58,403 autoreload 24592 27712 Watching for file changes with StatReloader
+INFO 2024-04-11 14:15:00,355 basehttp 24592 8732 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:15:00,563 basehttp 24592 8732 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-04-11 14:15:12,350 basehttp 24592 20864 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4626
+INFO 2024-04-11 14:15:18,948 basehttp 24592 20864 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:15:19,030 basehttp 24592 20864 "GET /admin/ HTTP/1.1" 200 5945
+INFO 2024-04-11 14:15:19,284 basehttp 24592 20864 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2024-04-11 14:15:19,321 basehttp 24592 20864 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-04-11 14:15:19,325 basehttp 24592 46984 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-04-11 14:21:02,700 basehttp 24592 47636 "GET /admin/auth/user/ HTTP/1.1" 200 12431
+INFO 2024-04-11 14:21:02,879 basehttp 24592 47636 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+INFO 2024-04-11 14:21:02,890 basehttp 24592 43864 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 2024-04-11 14:21:02,890 basehttp 24592 26060 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-04-11 14:21:02,907 basehttp 24592 6668 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:21:02,960 basehttp 24592 9504 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2024-04-11 14:21:02,998 basehttp 24592 47636 "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 2024-04-11 14:21:03,012 basehttp 24592 21564 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2024-04-11 14:21:03,076 basehttp 24592 6668 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-04-11 14:21:03,079 basehttp 24592 26060 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2024-04-11 14:21:03,119 basehttp 24592 43864 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-04-11 14:21:03,136 basehttp 24592 47636 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-04-11 14:21:03,174 basehttp 24592 9504 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2024-04-11 14:21:03,217 basehttp 24592 26060 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2024-04-11 14:21:03,340 basehttp 24592 9504 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-04-11 14:21:03,352 basehttp 24592 47636 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-04-11 14:21:03,417 basehttp 24592 26060 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-04-11 14:21:10,129 basehttp 24592 34544 "GET /admin/auth/user/add/ HTTP/1.1" 200 11239
+INFO 2024-04-11 14:21:10,183 basehttp 24592 34544 "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-04-11 14:21:10,189 basehttp 24592 46848 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:21:10,195 basehttp 24592 3924 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-04-11 14:21:10,235 basehttp 24592 34544 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 2024-04-11 14:21:10,247 basehttp 24592 46848 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-04-11 14:21:26,449 basehttp 24592 38256 "POST /admin/auth/user/add/ HTTP/1.1" 200 11520
+INFO 2024-04-11 14:21:26,508 basehttp 24592 38256 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:21:49,091 basehttp 24592 41568 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:21:49,236 basehttp 24592 41568 "GET /admin/auth/user/3/change/ HTTP/1.1" 200 24992
+INFO 2024-04-11 14:21:49,321 basehttp 24592 49172 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2024-04-11 14:21:49,330 basehttp 24592 28792 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:21:49,344 basehttp 24592 13228 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 2024-04-11 14:21:49,349 basehttp 24592 41568 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2024-04-11 14:21:49,362 basehttp 24592 51664 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15492
+INFO 2024-04-11 14:21:49,540 basehttp 24592 13228 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-04-11 14:21:49,540 basehttp 24592 41568 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-04-11 14:21:49,541 basehttp 24592 49172 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-04-11 14:21:49,541 basehttp 24592 51664 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-04-11 14:21:49,543 basehttp 24592 28792 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-04-11 14:22:10,451 basehttp 24592 15972 "POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:22:10,513 basehttp 24592 15972 "GET /admin/auth/user/ HTTP/1.1" 200 13181
+INFO 2024-04-11 14:22:10,579 basehttp 24592 15972 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:22:12,796 basehttp 24592 40948 "GET /admin/auth/user/ HTTP/1.1" 200 12960
+INFO 2024-04-11 14:22:12,863 basehttp 24592 40948 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:23:00,160 basehttp 24592 8988 "GET /admin/auth/group/ HTTP/1.1" 200 7784
+INFO 2024-04-11 14:23:00,257 basehttp 24592 8988 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:23:00,925 basehttp 24592 8988 "GET /admin/auth/group/add/ HTTP/1.1" 200 14126
+INFO 2024-04-11 14:23:00,986 basehttp 24592 8988 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:23:22,715 basehttp 24592 28416 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:23:22,752 basehttp 24592 28416 "GET /admin/auth/group/ HTTP/1.1" 200 9519
+INFO 2024-04-11 14:23:22,809 basehttp 24592 28416 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:23:51,885 basehttp 24592 18196 "GET /admin/auth/user/ HTTP/1.1" 200 13266
+INFO 2024-04-11 14:23:51,938 basehttp 24592 18196 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:23:53,265 basehttp 24592 18196 "GET /admin/auth/user/3/change/ HTTP/1.1" 200 24790
+INFO 2024-04-11 14:23:53,320 basehttp 24592 18196 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:23:58,839 basehttp 24592 18196 "POST /admin/auth/user/3/change/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:23:58,882 basehttp 24592 18196 "GET /admin/auth/user/ HTTP/1.1" 200 13487
+INFO 2024-04-11 14:23:58,939 basehttp 24592 18196 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:24:24,939 basehttp 24592 48768 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-04-11 14:24:27,221 basehttp 24592 48768 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:24:27,252 basehttp 24592 48768 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-04-11 14:24:36,777 basehttp 24592 24352 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:24:36,814 basehttp 24592 24352 "GET /admin/ HTTP/1.1" 200 4895
+INFO 2024-04-11 14:27:13,910 autoreload 24592 27712 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\models.py changed, reloading.
+INFO 2024-04-11 14:27:19,500 autoreload 13332 23676 Watching for file changes with StatReloader
+INFO 2024-04-11 14:27:55,791 autoreload 13332 23676 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\models.py changed, reloading.
+INFO 2024-04-11 14:28:02,741 autoreload 35212 40408 Watching for file changes with StatReloader
+INFO 2024-04-11 14:28:13,345 autoreload 35212 40408 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\models.py changed, reloading.
+INFO 2024-04-11 14:28:17,476 autoreload 46376 26200 Watching for file changes with StatReloader
+INFO 2024-04-11 14:31:40,361 autoreload 42296 31736 Watching for file changes with StatReloader
+INFO 2024-04-11 14:31:47,941 basehttp 42296 18084 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-04-11 14:31:49,775 basehttp 42296 18084 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:31:49,869 basehttp 42296 18084 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-04-11 14:32:00,014 basehttp 42296 41340 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:32:00,089 basehttp 42296 41340 "GET /admin/ HTTP/1.1" 200 8580
+INFO 2024-04-11 14:34:58,507 autoreload 42296 31736 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp3\admin.py changed, reloading.
+INFO 2024-04-11 14:35:03,705 autoreload 41072 12504 Watching for file changes with StatReloader
+INFO 2024-04-11 14:35:04,302 basehttp 41072 43364 "GET /admin/ HTTP/1.1" 200 9695
+INFO 2024-04-11 14:46:33,632 basehttp 41072 41556 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-04-11 14:46:34,883 basehttp 41072 41556 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:46:34,950 basehttp 41072 41556 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-04-11 14:46:44,791 basehttp 41072 52788 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:46:44,846 basehttp 41072 52788 "GET /admin/ HTTP/1.1" 200 5434
+INFO 2024-04-11 14:46:47,077 basehttp 41072 52788 "GET /admin/myapp3/post/ HTTP/1.1" 200 42698
+INFO 2024-04-11 14:46:47,180 basehttp 41072 52788 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:47:06,582 basehttp 41072 40708 "GET /admin/myapp3/ HTTP/1.1" 200 5400
+INFO 2024-04-11 14:47:37,249 basehttp 41072 35804 "GET /admin/myapp3/post/ HTTP/1.1" 200 42698
+INFO 2024-04-11 14:47:37,350 basehttp 41072 35804 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:47:39,349 basehttp 41072 35804 "GET /admin/myapp3/post/100/change/ HTTP/1.1" 200 10646
+INFO 2024-04-11 14:47:39,675 basehttp 41072 35804 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:47:45,587 basehttp 41072 28332 "GET /admin/myapp3/post/100/delete/ HTTP/1.1" 200 7099
+INFO 2024-04-11 14:47:45,871 basehttp 41072 28332 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-04-11 14:47:47,481 basehttp 41072 28332 "POST /admin/myapp3/post/100/delete/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:47:47,564 basehttp 41072 28332 "GET /admin/myapp3/post/ HTTP/1.1" 200 42516
+INFO 2024-04-11 14:47:47,616 basehttp 41072 28332 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:48:12,122 basehttp 41072 30020 "POST /admin/logout/ HTTP/1.1" 200 3817
+INFO 2024-04-11 14:48:14,079 basehttp 41072 33056 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:48:14,105 basehttp 41072 33056 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4359
+INFO 2024-04-11 14:48:20,689 basehttp 41072 33056 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:48:20,733 basehttp 41072 33056 "GET /admin/ HTTP/1.1" 200 9695
+INFO 2024-04-11 14:48:22,081 basehttp 41072 33056 "GET /admin/myapp5/category/ HTTP/1.1" 200 9109
+INFO 2024-04-11 14:48:22,134 basehttp 41072 33056 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:48:23,342 basehttp 41072 33056 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 9950
+INFO 2024-04-11 14:48:23,409 basehttp 41072 33056 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:48:35,864 basehttp 41072 52744 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:48:35,915 basehttp 41072 52744 "GET /admin/myapp5/category/ HTTP/1.1" 200 10833
+INFO 2024-04-11 14:48:35,978 basehttp 41072 52744 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:48:39,533 basehttp 41072 52744 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 9950
+INFO 2024-04-11 14:48:39,592 basehttp 41072 52744 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:48:45,563 basehttp 41072 18152 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:48:45,615 basehttp 41072 18152 "GET /admin/myapp5/category/ HTTP/1.1" 200 11163
+INFO 2024-04-11 14:48:45,667 basehttp 41072 18152 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:48:54,317 basehttp 41072 16756 "GET /admin/myapp5/product/ HTTP/1.1" 200 9102
+INFO 2024-04-11 14:48:54,378 basehttp 41072 16756 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:48:55,336 basehttp 41072 16756 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 11813
+INFO 2024-04-11 14:48:55,392 basehttp 41072 16756 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:49:03,623 basehttp 41072 46888 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:49:03,682 basehttp 41072 46888 "GET /admin/myapp5/product/ HTTP/1.1" 200 10818
+INFO 2024-04-11 14:49:03,737 basehttp 41072 46888 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:49:06,378 basehttp 41072 46888 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 11813
+INFO 2024-04-11 14:49:06,449 basehttp 41072 46888 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:49:15,443 basehttp 41072 45608 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-04-11 14:49:15,486 basehttp 41072 45608 "GET /admin/myapp5/product/ HTTP/1.1" 200 11142
+INFO 2024-04-11 14:49:15,542 basehttp 41072 45608 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 14:49:16,737 basehttp 41072 45608 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 12025
+INFO 2024-04-11 14:49:16,805 basehttp 41072 45608 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:08:14,089 autoreload 41072 12504 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\models.py changed, reloading.
+INFO 2024-04-11 15:08:22,772 autoreload 5452 44460 Watching for file changes with StatReloader
+INFO 2024-04-11 15:12:12,529 autoreload 26096 27600 Watching for file changes with StatReloader
+INFO 2024-04-11 15:12:13,580 basehttp 26096 6216 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 14549
+INFO 2024-04-11 15:12:14,821 basehttp 26096 6216 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:12:28,889 basehttp 26096 45396 "GET /admin/myapp5/product/ HTTP/1.1" 200 10935
+INFO 2024-04-11 15:12:28,956 basehttp 26096 45396 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:12:30,481 basehttp 26096 45396 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 14549
+INFO 2024-04-11 15:12:31,129 basehttp 26096 45396 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:12:41,481 basehttp 26096 45396 "POST /admin/myapp5/product/2/change/ HTTP/1.1" 302 0
+INFO 2024-04-11 15:12:41,536 basehttp 26096 45396 "GET /admin/myapp5/product/ HTTP/1.1" 200 11144
+INFO 2024-04-11 15:12:41,584 basehttp 26096 45396 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:12:42,897 basehttp 26096 45396 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 14553
+INFO 2024-04-11 15:12:42,970 basehttp 26096 45396 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:12:53,778 basehttp 26096 45396 "POST /admin/myapp5/product/1/change/ HTTP/1.1" 302 0
+INFO 2024-04-11 15:12:53,833 basehttp 26096 45396 "GET /admin/myapp5/product/ HTTP/1.1" 200 11145
+INFO 2024-04-11 15:12:53,888 basehttp 26096 45396 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:13:31,115 autoreload 26096 27600 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:13:34,008 autoreload 1988 38712 Watching for file changes with StatReloader
+INFO 2024-04-11 15:13:37,590 basehttp 1988 7920 "GET /admin/myapp5/product/ HTTP/1.1" 200 10935
+INFO 2024-04-11 15:13:37,724 basehttp 1988 7920 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:13:40,523 basehttp 1988 7920 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 14547
+INFO 2024-04-11 15:13:40,592 basehttp 1988 7920 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:13:42,152 basehttp 1988 51760 "GET /admin/myapp5/product/ HTTP/1.1" 200 10935
+INFO 2024-04-11 15:13:42,211 basehttp 1988 51760 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:14:32,479 autoreload 1988 38712 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:14:37,434 autoreload 272 46792 Watching for file changes with StatReloader
+INFO 2024-04-11 15:14:38,235 basehttp 272 35760 "GET /admin/myapp5/product/ HTTP/1.1" 200 11385
+INFO 2024-04-11 15:14:38,361 basehttp 272 35760 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:18:18,638 autoreload 272 46792 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:18:23,251 autoreload 20092 3004 Watching for file changes with StatReloader
+INFO 2024-04-11 15:18:37,263 autoreload 20092 3004 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:18:40,332 autoreload 5152 34284 Watching for file changes with StatReloader
+INFO 2024-04-11 15:22:26,391 basehttp 5152 23700 "GET /admin/myapp5/product/ HTTP/1.1" 200 13627
+INFO 2024-04-11 15:22:26,509 basehttp 5152 23700 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:23:04,862 autoreload 5152 34284 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:23:10,067 autoreload 18800 54200 Watching for file changes with StatReloader
+INFO 2024-04-11 15:23:13,578 basehttp 18800 48684 "GET /admin/myapp5/product/ HTTP/1.1" 200 14135
+INFO 2024-04-11 15:23:13,662 basehttp 18800 48684 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:23:44,103 autoreload 18800 54200 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:23:47,628 autoreload 48024 18076 Watching for file changes with StatReloader
+INFO 2024-04-11 15:24:04,242 autoreload 48024 18076 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:24:05,986 autoreload 33128 23048 Watching for file changes with StatReloader
+INFO 2024-04-11 15:24:23,033 basehttp 33128 47128 "GET /admin/myapp5/product/ HTTP/1.1" 200 14228
+INFO 2024-04-11 15:24:23,167 basehttp 33128 47128 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:24:25,080 basehttp 33128 47128 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 14551
+INFO 2024-04-11 15:24:25,181 basehttp 33128 47128 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:24:28,417 basehttp 33128 3264 "GET /admin/myapp5/product/ HTTP/1.1" 200 14228
+INFO 2024-04-11 15:24:28,490 basehttp 33128 3264 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:24:57,626 basehttp 33128 37688 "POST /admin/myapp5/product/ HTTP/1.1" 302 0
+INFO 2024-04-11 15:24:57,703 basehttp 33128 37688 "GET /admin/myapp5/product/ HTTP/1.1" 200 14228
+INFO 2024-04-11 15:24:57,747 basehttp 33128 37688 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:25:29,063 autoreload 33128 23048 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:25:31,745 autoreload 34300 2064 Watching for file changes with StatReloader
+INFO 2024-04-11 15:25:51,470 autoreload 34300 2064 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:25:55,516 autoreload 3216 30272 Watching for file changes with StatReloader
+INFO 2024-04-11 15:26:00,564 basehttp 3216 13060 "GET /admin/myapp5/product/ HTTP/1.1" 200 14228
+INFO 2024-04-11 15:26:00,641 basehttp 3216 13060 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:26:02,311 basehttp 3216 13060 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 13772
+INFO 2024-04-11 15:26:02,367 basehttp 3216 13060 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:26:40,456 autoreload 3216 30272 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:26:42,339 autoreload 16620 19464 Watching for file changes with StatReloader
+INFO 2024-04-11 15:26:54,104 autoreload 16620 19464 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:26:56,615 autoreload 52928 15760 Watching for file changes with StatReloader
+INFO 2024-04-11 15:28:39,288 autoreload 52928 15760 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:28:41,349 autoreload 37308 32220 Watching for file changes with StatReloader
+INFO 2024-04-11 15:28:56,810 autoreload 37308 32220 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:28:59,264 autoreload 23580 29640 Watching for file changes with StatReloader
+INFO 2024-04-11 15:30:49,888 autoreload 23580 29640 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:30:56,013 autoreload 14852 29928 Watching for file changes with StatReloader
+INFO 2024-04-11 15:33:03,275 autoreload 14852 29928 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:33:09,016 autoreload 49288 6448 Watching for file changes with StatReloader
+INFO 2024-04-11 15:33:10,044 basehttp 49288 52032 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 15684
+INFO 2024-04-11 15:33:10,507 basehttp 49288 33260 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:33:11,004 basehttp 49288 52032 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2024-04-11 15:33:14,120 basehttp 49288 49856 "GET /admin/myapp5/product/ HTTP/1.1" 200 14228
+INFO 2024-04-11 15:33:14,211 basehttp 49288 49856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:33:19,927 basehttp 49288 49856 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 15684
+INFO 2024-04-11 15:33:19,990 basehttp 49288 49856 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:33:59,242 autoreload 49288 6448 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-11 15:34:04,090 autoreload 29372 42504 Watching for file changes with StatReloader
+INFO 2024-04-11 15:34:05,518 basehttp 29372 4896 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 15684
+INFO 2024-04-11 15:34:07,123 basehttp 29372 4896 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 15684
+INFO 2024-04-11 15:34:07,349 basehttp 29372 40852 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-11 15:34:07,960 basehttp 29372 4896 "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+INFO 2024-04-11 15:34:08,176 basehttp 29372 48792 "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 2024-04-11 15:34:08,364 basehttp 29372 39180 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO 2024-04-11 15:34:08,601 basehttp 29372 18332 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2024-04-16 13:19:11,594 autoreload 17856 3744 Watching for file changes with StatReloader
+INFO 2024-04-16 13:19:17,682 basehttp 17856 41172 "GET / HTTP/1.1" 200 10118
+INFO 2024-04-16 13:19:19,076 basehttp 17856 41172 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-04-16 13:19:19,088 basehttp 17856 43048 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2024-04-16 13:19:21,244 basehttp 17856 43048 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-04-16 13:19:21,767 basehttp 17856 43048 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2024-04-16 13:19:22,193 log 17856 43048 Not Found: /favicon.ico
+WARNING 2024-04-16 13:19:22,197 basehttp 17856 43048 "GET /favicon.ico HTTP/1.1" 404 12437
+INFO 2024-04-16 13:19:58,577 basehttp 17856 17004 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=HistoryPanel HTTP/1.1" 200 4150
+INFO 2024-04-16 13:19:58,621 basehttp 17856 17004 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 200 3515
+INFO 2024-04-16 13:20:24,519 basehttp 17856 17108 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=VersionsPanel HTTP/1.1" 200 760
+INFO 2024-04-16 13:20:30,208 basehttp 17856 29744 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=SettingsPanel HTTP/1.1" 200 27357
+INFO 2024-04-16 13:20:36,937 basehttp 17856 29744 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=HeadersPanel HTTP/1.1" 200 5197
+INFO 2024-04-16 13:20:39,565 basehttp 17856 54496 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=RequestPanel HTTP/1.1" 200 1606
+INFO 2024-04-16 13:20:45,786 basehttp 17856 54496 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=SQLPanel HTTP/1.1" 200 428
+INFO 2024-04-16 13:20:46,921 basehttp 17856 54496 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=StaticFilesPanel HTTP/1.1" 200 53481
+INFO 2024-04-16 13:20:53,403 basehttp 17856 48552 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=TemplatesPanel HTTP/1.1" 200 7347
+INFO 2024-04-16 13:21:05,885 basehttp 17856 25324 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=CachePanel HTTP/1.1" 200 1737
+INFO 2024-04-16 13:21:07,752 basehttp 17856 25324 "GET /__debug__/render_panel/?store_id=37bf5ca0d3fc47b4aea2069dbf8a20ac&panel_id=SignalsPanel HTTP/1.1" 200 2231
+INFO 2024-04-16 13:26:10,881 basehttp 17856 44696 "GET /les4/user/add/ HTTP/1.1" 200 11133
+INFO 2024-04-16 13:26:10,946 basehttp 17856 14184 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-04-16 13:26:10,947 basehttp 17856 44696 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-04-16 13:26:10,969 basehttp 17856 29060 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-04-16 13:26:10,989 basehttp 17856 44696 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+INFO 2024-04-16 13:26:20,860 basehttp 17856 44696 "GET /__debug__/render_panel/?store_id=5b975834a9b2486a8f55a17a418264de&panel_id=ProfilingPanel HTTP/1.1" 200 39917
+INFO 2024-04-16 13:48:54,179 autoreload 21384 9752 Watching for file changes with StatReloader
+INFO 2024-04-16 13:53:18,454 autoreload 21384 9752 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myapp5\models.py changed, reloading.
+INFO 2024-04-16 13:53:22,344 autoreload 23900 28176 Watching for file changes with StatReloader
+INFO 2024-04-16 13:56:19,529 autoreload 23900 28176 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-16 13:56:25,418 autoreload 44412 55452 Watching for file changes with StatReloader
+INFO 2024-04-16 13:58:49,719 autoreload 34000 22900 Watching for file changes with StatReloader
+WARNING 2024-04-16 13:58:52,585 log 34000 48712 Not Found: /les6
+WARNING 2024-04-16 13:58:52,587 basehttp 34000 48712 "GET /les6 HTTP/1.1" 404 12957
+INFO 2024-04-16 13:58:54,387 basehttp 34000 20648 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 2024-04-16 13:58:54,388 basehttp 34000 48712 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 2024-04-16 13:58:54,427 basehttp 34000 20648 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 2024-04-16 13:58:54,519 basehttp 34000 20648 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+WARNING 2024-04-16 13:59:04,403 log 34000 24660 Not Found: /les6/
+WARNING 2024-04-16 13:59:04,405 basehttp 34000 24660 "GET /les6/ HTTP/1.1" 404 13369
+INFO 2024-04-16 13:59:13,392 basehttp 34000 8548 "GET /les6/db/ HTTP/1.1" 200 10681
+INFO 2024-04-16 13:59:23,287 basehttp 34000 40992 "GET /les6/view/ HTTP/1.1" 200 10665
+INFO 2024-04-16 13:59:32,970 basehttp 34000 47704 "GET /les6/template/ HTTP/1.1" 200 10649
+INFO 2024-04-16 13:59:52,169 basehttp 34000 21004 "GET /les6/template HTTP/1.1" 200 10875
+INFO 2024-04-16 13:59:52,286 basehttp 34000 25876 "GET /static/debug_toolbar/js/redirect.js HTTP/1.1" 200 48
+INFO 2024-04-16 13:59:54,339 basehttp 34000 25876 "GET /les6/template/ HTTP/1.1" 200 10649
+INFO 2024-04-16 14:00:26,194 basehttp 34000 31456 "GET /__debug__/render_panel/?store_id=7cb9ee8335d34c2a8cfe60987716144a&panel_id=SQLPanel HTTP/1.1" 200 34554
+INFO 2024-04-16 14:01:00,971 basehttp 34000 5708 "GET /les6/view/ HTTP/1.1" 200 10665
+INFO 2024-04-16 14:01:04,321 basehttp 34000 5708 "GET /__debug__/render_panel/?store_id=a62d8b5d92014b72bd11f1b603c73d46&panel_id=SQLPanel HTTP/1.1" 200 7155
+INFO 2024-04-16 14:01:17,034 basehttp 34000 17900 "GET /les6/template/ HTTP/1.1" 200 10649
+INFO 2024-04-16 14:01:58,965 basehttp 34000 38176 "GET /__debug__/render_panel/?store_id=83bfe2d02a0445b39336903df6d23aab&panel_id=SQLPanel HTTP/1.1" 200 34555
+INFO 2024-04-16 14:05:54,794 basehttp 34000 35484 "GET /__debug__/render_panel/?store_id=83bfe2d02a0445b39336903df6d23aab&panel_id=HistoryPanel HTTP/1.1" 200 15669
+INFO 2024-04-16 14:05:54,843 basehttp 34000 35484 "GET /static/debug_toolbar/js/history.js HTTP/1.1" 304 0
+INFO 2024-04-16 14:18:09,384 autoreload 34000 22900 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-16 14:18:17,580 autoreload 11288 11996 Watching for file changes with StatReloader
+INFO 2024-04-16 14:18:24,821 autoreload 11288 11996 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-16 14:18:27,536 autoreload 34672 47444 Watching for file changes with StatReloader
+INFO 2024-04-16 14:18:42,883 autoreload 34672 47444 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-16 14:18:46,218 autoreload 33636 46484 Watching for file changes with StatReloader
+INFO 2024-04-16 14:20:09,616 autoreload 33636 46484 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-16 14:20:12,030 autoreload 40836 24052 Watching for file changes with StatReloader
+INFO 2024-04-16 14:20:20,768 autoreload 40836 24052 C:\Users\medvedevads\OneDrive - JSC BIOCAD\УЧЕБА\Фреймворк Django\Лекции\lection_1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-16 14:20:22,887 autoreload 48040 13516 Watching for file changes with StatReloader
